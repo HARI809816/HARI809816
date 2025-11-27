@@ -16,7 +16,6 @@
 - 🧪 Comfortable with **VS Code** & **Jupyter Notebook**
 - ☁️ Deploying apps using **AWS EC2**, **AWS RDS**, **AWS Lambda**
 - 🧑‍💻 Fun fact: I love deploying and optimizing backend systems  
-- 🌐 Social Links below 👇
 
 ---
 
