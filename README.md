@@ -67,12 +67,5 @@
 
 ---
 
-# 🖥️ **Workspace Spec**
-<p>
-  <img src="https://img.shields.io/badge/WIN10-0078D6?logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/AMD-Ryzen%205%204600H-ED1C24?logo=amd&logoColor=white" />
-  <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?logo=visualstudiocode" />
-</p>
 
----
+
