@@ -21,7 +21,7 @@
 ---
 
 # 💻 **I Code In**
-
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
-
+</p>
 
 ---
 
