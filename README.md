@@ -5,7 +5,6 @@
 <div align="right">
   <img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me.gif" width="330" alt="Coding" />
 </div>
-
 ---
 
 ### 🧠 About Me
