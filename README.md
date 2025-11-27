@@ -1,111 +1,78 @@
-<!-- =========================================== -->
-<!--            🌟 CUSTOM BANNER HERE            -->
-<!-- =========================================== -->
-<p align="center">
-  <img src="https://your-banner-image-link-here" width="100%" alt="Hari Kumar Banner"/>
-</p>
+<h1 align="left">Hi there 👋 It's me <strong>Hari Kumar</strong></h1>
+
+### **Python Developer | Backend Engineer | Automation Enthusiast**
+
+<div align="right">
+  <img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me.gif" width="330" alt="Coding" />
+</div>
+
+---
+
+### 🧠 About Me
+
+- 💻 I build backend applications using **Python, FastAPI & Django**
+- 🤖 Learning and working with **ML, DL, and LangChain**
+- 🔄 Automating workflows using **n8n**
+- 🧪 Comfortable with **VS Code** & **Jupyter Notebook**
+- ☁️ Deploying apps using **AWS EC2**, **AWS RDS**, **AWS Lambda**
+- 🧑‍💻 Fun fact: I love deploying and optimizing backend systems  
+- 🌐 Social Links below 👇
+
+---
+
+## 🌍 **Social Presence**
+<a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a>
 
 <br>
 
-<!-- =========================================== -->
-<!--            👋 INTRO SECTION                 -->
-<!-- =========================================== -->
-# Hi there 👋 I'm **Hari Kumar**
-
-💻 *Python Developer | FastAPI | Django | ML/DL | AWS EC2 & RDS*  
-🚀 Passionate about automation, backend engineering, and AI workflows.
-
 ---
 
-<!-- =========================================== -->
-<!--        ⭐ ABOUT ME SECTION                   -->
-<!-- =========================================== -->
-### 👨‍💻 **About Me**
-- 🌐 Working with **Python, FastAPI, Django, ML/DL, LangChain**
-- 🤖 Automating workflows using **n8n**
-- ☁️ Hosting & deploying using **AWS EC2**, **AWS RDS**
-- 🛠️ Love building practical AI-integrated backend systems  
-- 📝 Exploring advanced data pipelines & LLM applications  
-- ⚡ Fun fact: I break things… then fix them better 😄
-
----
-
-<!-- =========================================== -->
-<!--        🔗 SOCIAL LINKS                      -->
-<!-- =========================================== -->
-### 🌍 **Connect With Me**
+# 💻 **I Code In**
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter"></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-000?logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
 </p>
 
 ---
 
-<!-- =========================================== -->
-<!--        🧠 SKILLS & TECH STACK               -->
-<!-- =========================================== -->
-## 🚀 **Tech Stack**
-
-### 🔥 Languages & Frameworks  
-<!-- Add your logos here -->
+# ☁️ **Cloud & DevOps**
 <p>
-  <!-- PYTHON -->
-  <!-- Keep this space empty, you will insert logos -->
-
-  <!-- Example format:  
-  <img src="logo-link" width="45" height="45" alt="Python"/>  
-  -->
-</p>
-
-<br>
-
-### 📦 Backend & AI  
-<p>
-  <!-- Reserved space for logos -->
-</p>
-
-<br>
-
-### 🛠 DevOps & Cloud  
-<p>
-  <!-- AWS, EC2, RDS, Git, Docker logos -->
-</p>
-
-<br>
-
-### 🧰 Tools I Use  
-<p>
-  <!-- VS Code, PyCharm, Jupyter, Postman, GitHub, Notion -->
+  <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20RDS-527FFF?logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Lambda-FD9827?logo=amazon-aws&logoColor=white" />
 </p>
 
 ---
 
-<!-- =========================================== -->
-<!--        🔥 GITHUB STATS                      -->
-<!-- =========================================== -->
-## 📊 **GitHub Stats**
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" />
+# 🧰 **IDE & Tools I Use**
+<p>
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-A020F0?logo=n8n&logoColor=white" />
 </p>
 
 ---
 
-<!-- =========================================== -->
-<!--        🌟 PROJECT HIGHLIGHTS                -->
-<!-- =========================================== -->
-## 🚀 Featured Projects
-- 🔹 **FastAPI + LangChain AI Automation**
-- 🔹 **AWS EC2 backend deployments**
-- 🔹 **PostgreSQL + AWS RDS data pipelines**
-- 🔹 **n8n automation workflows**
+# 🖥️ **Workspace Spec**
+<p>
+  <img src="https://img.shields.io/badge/WIN10-0078D6?logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/AMD-Ryzen%205%204600H-ED1C24?logo=amd&logoColor=white" />
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?logo=visualstudiocode" />
+</p>
 
 ---
-
-<!-- =========================================== -->
-<!--        🎉 FOOTER                             -->
-<!-- =========================================== -->
-<p align="center">
-  ⭐ Thanks for visiting my profile! ⭐  
-</p>
