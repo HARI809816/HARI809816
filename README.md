@@ -1,109 +1,111 @@
-<h1 align="center">👋 Hi, I'm <strong>Hari Kumar</strong></h1>
-
-<div align="center">
-  
-🎨  
-<img src="https://i.imgur.com/5Qe2EyM.gif" width="500" alt="Animated Coding Header"/>
-
-</div>
+<!-- =========================================== -->
+<!--            🌟 CUSTOM BANNER HERE            -->
+<!-- =========================================== -->
+<p align="center">
+  <img src="https://your-banner-image-link-here" width="100%" alt="Hari Kumar Banner"/>
+</p>
 
 <br>
+
+<!-- =========================================== -->
+<!--            👋 INTRO SECTION                 -->
+<!-- =========================================== -->
+# Hi there 👋 I'm **Hari Kumar**
+
+💻 *Python Developer | FastAPI | Django | ML/DL | AWS EC2 & RDS*  
+🚀 Passionate about automation, backend engineering, and AI workflows.
 
 ---
 
-## 🧠 **About Me**
-
-- 💻 Strong in **Python**, **FastAPI**, **Django**, and API development  
-- 🤖 Knowledge in **Deep Learning**, **Machine Learning**, and **LangChain**  
-- 🔄 Automation experience using **n8n**  
-- 🧪 Comfortable working with **VS Code** & **Jupyter Notebook**  
-- 🌐 Basic understanding of **HTML** and **CSS**  
-- ☁️ Experienced in deploying apps using **AWS EC2**, **AWS RDS**, and **AWS Lambda**  
-
-<br>
-
----
-
-## 🛠️ **Tech Stack**
-
-### **Programming & Frameworks**
-<div>
-  
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-000000?logo=chainlink&logoColor=white" />
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?logo=pytorch&logoColor=white" />
-
-</div>
-
-<br>
-
-### **Dev Tools**
-<div>
-
-<img src="https://img.shields.io/badge/n8n-A020F0?logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-0078D4?logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
-
-</div>
-
-<br>
-
-### **Frontend**
-<div>
-
-<img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" />
-
-</div>
-
-<br>
-
-### **Databases**
-<div>
-
-<img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS%20RDS-527FFF?logo=amazon-aws&logoColor=white" />
-
-</div>
-
-<br>
-
-### **Cloud / DevOps**
-<div>
-
-<img src="https://img.shields.io/badge/AWS%20EC2-FF9900?logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS%20Lambda-FD9827?logo=amazon-aws&logoColor=white" />
-
-</div>
-
-<br>
+<!-- =========================================== -->
+<!--        ⭐ ABOUT ME SECTION                   -->
+<!-- =========================================== -->
+### 👨‍💻 **About Me**
+- 🌐 Working with **Python, FastAPI, Django, ML/DL, LangChain**
+- 🤖 Automating workflows using **n8n**
+- ☁️ Hosting & deploying using **AWS EC2**, **AWS RDS**
+- 🛠️ Love building practical AI-integrated backend systems  
+- 📝 Exploring advanced data pipelines & LLM applications  
+- ⚡ Fun fact: I break things… then fix them better 😄
 
 ---
 
-## 📌 **What I'm Working On**
-
-- 🚀 Building AI apps using **FastAPI + LangChain**  
-- ☁️ Deploying backend systems on **AWS (EC2 + RDS + Lambda)**  
-- 🔄 Creating automation workflows with **n8n**  
-- 🤖 Training & improving **ML/DL models**  
-
-<br>
-
----
-
-## 🎨 **Animated Profile Banner**
-
-<div align="center">
-
-<img src="https://i.imgur.com/3Z4XW0L.gif" width="600" alt="Animated Banner"/>
-
-</div>
-
-<br>
+<!-- =========================================== -->
+<!--        🔗 SOCIAL LINKS                      -->
+<!-- =========================================== -->
+### 🌍 **Connect With Me**
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter"></a>
+</p>
 
 ---
 
+<!-- =========================================== -->
+<!--        🧠 SKILLS & TECH STACK               -->
+<!-- =========================================== -->
+## 🚀 **Tech Stack**
+
+### 🔥 Languages & Frameworks  
+<!-- Add your logos here -->
+<p>
+  <!-- PYTHON -->
+  <!-- Keep this space empty, you will insert logos -->
+
+  <!-- Example format:  
+  <img src="logo-link" width="45" height="45" alt="Python"/>  
+  -->
+</p>
+
+<br>
+
+### 📦 Backend & AI  
+<p>
+  <!-- Reserved space for logos -->
+</p>
+
+<br>
+
+### 🛠 DevOps & Cloud  
+<p>
+  <!-- AWS, EC2, RDS, Git, Docker logos -->
+</p>
+
+<br>
+
+### 🧰 Tools I Use  
+<p>
+  <!-- VS Code, PyCharm, Jupyter, Postman, GitHub, Notion -->
+</p>
+
+---
+
+<!-- =========================================== -->
+<!--        🔥 GITHUB STATS                      -->
+<!-- =========================================== -->
+## 📊 **GitHub Stats**
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" />
+</p>
+
+---
+
+<!-- =========================================== -->
+<!--        🌟 PROJECT HIGHLIGHTS                -->
+<!-- =========================================== -->
+## 🚀 Featured Projects
+- 🔹 **FastAPI + LangChain AI Automation**
+- 🔹 **AWS EC2 backend deployments**
+- 🔹 **PostgreSQL + AWS RDS data pipelines**
+- 🔹 **n8n automation workflows**
+
+---
+
+<!-- =========================================== -->
+<!--        🎉 FOOTER                             -->
+<!-- =========================================== -->
+<p align="center">
+  ⭐ Thanks for visiting my profile! ⭐  
+</p>
